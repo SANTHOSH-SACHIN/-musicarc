@@ -1,1 +1,2 @@
-# - Music Arc is a Simple Music Streaming service under development
+# MUSIC_ARC
+MUSIC ARC is an audio streaming web application under development.
